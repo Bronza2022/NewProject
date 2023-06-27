@@ -5,7 +5,7 @@ const myFunctionSecond = () => {
 
 const today = new Date(); // вывод текущего времени и компонента Second на страницу.
 
-export const Second = () => {  // вывод компонента Second на страницу.
+export const Second = () => {  // вывод компонента Second на страницу
 
 
     function toLocaleTimeString() {
