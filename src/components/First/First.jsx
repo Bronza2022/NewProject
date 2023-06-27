@@ -15,7 +15,7 @@ function getRandomInRange(min, max) {    // генератор случайно�
  
   return (  // генератор случайного числа от 0 до 5 и вывод компонента First на страницу.
     <> 
-      <div>{getRandomInRange(111, 999)}</div>   
+      <div>{getRandomInRange(10, 99)}</div>   
 
       <div className={firstStyles.wr}>1</div>
     </>
